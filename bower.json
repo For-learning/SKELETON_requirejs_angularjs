@@ -1,0 +1,20 @@
+{
+  "name": "requireangular",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Crown.Cao <crown_0726@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Node-Angular-Bootstrap/SKELETON_requirejs_angularjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.2.0"
+  }
+}

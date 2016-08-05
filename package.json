@@ -1,0 +1,22 @@
+{
+  "name": "requireangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Node-Angular-Bootstrap/SKELETON_requirejs_angularjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Node-Angular-Bootstrap/SKELETON_requirejs_angularjs/issues"
+  },
+  "homepage": "https://github.com/Node-Angular-Bootstrap/SKELETON_requirejs_angularjs#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
