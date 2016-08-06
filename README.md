@@ -1,1 +1,3 @@
-# -_skeleton_requirejs_angularjs
+# skeleton_requirejs_angularjs
+
+This skeleton have excellent ectendation features.

@@ -4,6 +4,8 @@ define([
     'use strict';
 
     ng.controller('loginCtrl', ['$scope', function ($scope) {
-        
+        $scope.local = function () {
+            alert('Hello');
+        };
     }]);
 });

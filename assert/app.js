@@ -3,11 +3,11 @@ define([
     'ui-router',
 
     // Customatic module
-    './login/load'
+    './login/load',
+    './dashboard/load',
+    './question/load'
 ], function (angular) {
     'use strict';
 
-    
-
-    return angular.module('app', ['ui.router', 'app.login']);
+    return angular.module('app', ['ui.router', 'app.login', 'app.dashboard', 'app.question']);
 });

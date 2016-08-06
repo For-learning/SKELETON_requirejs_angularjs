@@ -3,7 +3,7 @@ define([
 ], function (ng) {
     'use strict';
 
-    ng.directive('loginDirective', ['$scope', function ($scope) {
+    ng.controller('questionCtrl', ['$scope', function ($scope) {
         
     }]);
 });
